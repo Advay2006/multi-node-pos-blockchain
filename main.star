@@ -1,4 +1,4 @@
-module = import("main.star")
+std = import("kurtosis/stdlib.star")
 
 def run(plan):
-    module.std.log("Kurtosis test is working!")
+    std.log("Kurtosis test is working!")
