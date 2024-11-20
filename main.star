@@ -15,7 +15,7 @@ def run(plan, args):
 
 
 
-    # Print success message
+    # msg
     plan.print("Multi-node PoS blockchain successfully started!")
 
 
